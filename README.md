@@ -1,12 +1,12 @@
 # Expense Tracker App
 
-This is an expense tracker app built using ReactJS, MongoDB, and NodeJS. The app allows users to track their expenses and incomes by entering information such as the date, description, and amount of each transaction. The app includes a dashboard that displays the user's total expenses, total incomes, and net balance. Users can filter and sort their transactions by various criteria.
+This is an expense tracker app built using ReactJS, MongoDB, and NodeJS. The app allows users to track their expenses and incomes by entering information such as the date, description, and the amount of each transaction. The app includes a dashboard that displays the user's total expenses, total incomes, and net balance. Users can filter and sort their transactions by various criteria.
 
 ## Installation
 
 To install and run the app on your local machine, follow these steps:
 
-1. Clone this repository to your local machine: `git clone https://github.com/YoosufAathil/Expense-tracker-app-using-React-Js.git`
+1. Clone this repository to your local machine: `git clone https://github.com/Shubam081220/Expense_Tracker_App.git`
 2. Install the necessary dependencies by running `npm install` in the root directory of the project.
 3. Create a `.env` file in the root directory of the project and add the following variables:
 PORT=Your_PORT
